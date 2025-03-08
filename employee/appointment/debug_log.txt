@@ -1,0 +1,8 @@
+Array
+(
+    [serviceType] => registration
+    [appointmentDate] => 2025-03-29
+    [timeSlot] => 11:00:00
+    [duration] => 30
+    [notes] => 123313123
+)

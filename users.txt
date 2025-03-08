@@ -1,0 +1,33 @@
+admin account
+admin@mail.com
+admin123
+==============================================================
+
+employee account
+edgeniel@mail.com
+123456789
+==============================================================
+
+user account
+ed@mail.com
+123456789
+
+
+admin
+admin@mail.com
+admin123
+
+employee
+joshua@mail.com
+123
+
+user
+james@mail.com
+123
+
+
+
+
+
+
+
